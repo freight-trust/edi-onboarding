@@ -1,8 +1,10 @@
 # ESC Guides
 
-<img src="images/guide_banner.png" width=800 align=right>
+<img src="images/guide_banner.png" width=400 align=right>
 
-> EDI Onboarding Guides
+## Overview
+
+EDI Onboarding Guides for Informative usage.
 
 ## Abstract
 
